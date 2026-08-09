@@ -8,12 +8,12 @@
 
 ### 🚀 About Me
 
-I am a **Full-Stack Developer, Data Engineer, and AI/ML Enthusiast** pursuing my B.Tech in Computer Science & Engineering at Lovely Professional University. I specialize in building privacy-focused, high-scale applications, GeoAI engines, and NLP solutions.
+I am a **Full-Stack Developer, Data Engineer, and AI/ML Enthusiast** pursuing my B.Tech in Computer Science & Engineering at Lovely Professional University. I specialize in building privacy-focused, high-scale applications, GeoAI engines, and localized NLP solutions.
 
-- 🔭 **Currently Working On:** [UrivDocs](https://github.com/Uriv7/UrivDocs) — A privacy-first local RAG platform for large document QA without third-party APIs.
-- 💡 **Key Passions:** Natural Language Processing, Geospatial Data Systems, and Full-Stack Web Development.
-- 🛠️ **Learning & Practicing:** Advanced DevOps pipelines, Cloud Architecture (AWS), and Data Structures & Algorithms.
-- 🎯 **Career Focus:** Software Engineering, Data Engineering, and Applied ML/AI.
+- 🔭 **Currently Working On:** [SentriAI](https://github.com/Uriv7/SentriAI) & [UrivChat](https://github.com/Uriv7/UrivChat)
+- 💡 **Key Passions:** Natural Language Processing, Real-Time Messaging Systems, and Geospatial Data Analytics
+- 🛠️ **Learning & Practicing:** DevOps Pipelines, AWS Cloud Architecture, and Data Structures & Algorithms
+- 🎯 **Career Focus:** Software Engineering, Data Engineering, and Applied AI/ML
 
 ---
 
@@ -33,11 +33,12 @@ I am a **Full-Stack Developer, Data Engineer, and AI/ML Enthusiast** pursuing my
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
-**Data & Cloud:**
+**Data & Infrastructure:**
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![PostGIS](https://img.shields.io/badge/PostGIS-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
-![AWS Athena](https://img.shields.io/badge/AWS_Athena-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
@@ -46,11 +47,11 @@ I am a **Full-Stack Developer, Data Engineer, and AI/ML Enthusiast** pursuing my
 
 | Project | Description | Tech Stack |
 |---|---|---|
-| **[UrivDocs](https://github.com/Uriv7/UrivDocs)** | Local RAG platform for automated document QA & citations using local LLMs. | Python, Apple MLX, LangChain, VectorDB |
+| **[UrivChat](https://github.com/Uriv7/UrivChat)** | Real-time messaging platform with community spaces and anonymous video calls. | Node.js, WebSockets, MongoDB, Redis |
+| **[SentriAI](https://github.com/Uriv7/SentriAI)** | AI-driven security platform using localized RAG for document compliance. | Python, PyTorch, LangChain, VectorDB |
+| **[UrivDocs](https://github.com/Uriv7/UrivDocs)** | Local RAG platform for document QA without third-party APIs. | Python, Apple MLX, LangChain |
 | **[URIV-GEOSCALE](https://github.com/Uriv7/URIV-GEOSCALE)** | GeoAI engine processing 3.8M+ OpenStreetMap points of interest. | Python, PostGIS, Geospatial Analytics |
 | **[Examify](https://github.com/Uriv7/Examify)** | AI-powered automated question generator for academic assessments. | Python, NLP, React, Node.js |
-| **[GeoPredictor-Pro](https://github.com/Uriv7/GeoPredictor-Pro)** | Address-to-coordinate conversion and spatial analysis tool. | Python, Geocoding APIs, Pandas |
-| **[Uriv-SignSense](https://github.com/Uriv7/Uriv-SignSense)** | Non-manual feature detection & ISL facial expression recognition. | Python, OpenCV, Deep Learning |
 
 ---
 
